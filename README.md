@@ -105,8 +105,6 @@ The RTL design was simulated using **Icarus Verilog**, and the output waveform w
 
 ### Simulation Waveform
 
-> *(Insert screenshot below)*
-
 ![Waveform](Waveform.png)
 
 The waveform verifies the correct execution of all ALU operations according to their respective opcodes.
