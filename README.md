@@ -137,7 +137,7 @@ Standard cells are optimally placed within the core area to minimize wirelength 
 
 Clock buffers are inserted to distribute the clock uniformly and reduce clock skew.
 
-![CTS](cts.png)
+![CTS](CTS.png)
 
 ---
 
